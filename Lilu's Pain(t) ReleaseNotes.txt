@@ -1,0 +1,119 @@
+Lilu's Pain(t) Version 1.0.5 10/17/2023 
+Features:  
+- Roate full and selctions of images  
+- Flip full and selctions of images on x and y axis  
+- Tool tips and icons for buttons  
+- Notification for auto save  
+- Logging user data to file
+
+Known issues:
+- Toolbar layout got too long
+
+Expected next sprint:
+- Organize toolbar layout
+- Add release notes
+- Upload everything to Github
+
+Links: 
+GitHub- https://github.com/lilusmith/Paint
+
+
+Lilu's Pain(t) Version 1.0.4 10/7/2023 
+Features:  
+- 3 unit tests 
+- Autosave with timer, toggle on/ off  
+- Java doc commenting  
+- Save alternate file types with warning of potential data loss
+
+Known issues:
+- Can not live draw shapes 
+
+Expected next sprint:  
+- Cleaning up code and comment more 
+- Live draw on drawing tools
+
+Links: 
+GitHub- https://github.com/lilusmith/Paint
+
+
+Lilu's Pain(t) Version 1.0.3 10/1/2023
+Features:  
+- undo/redo buttons with shortcuts
+- Blank starting canvas
+- Clear enitre canvas with a pop up confirmation
+- Added my shape, a polygon, and eraser tool
+- Copy/paste anywhere on the canvas 
+- User input text on the canvas  
+- Have working tabs 
+
+Known issues:  
+- Can't drag a selection of an image or drawing around the canvas  
+
+Expected next sprint:  
+- Dragging a piece of an image around the canvas
+- Unit tests to make sure functions are working
+- Autosave timer, turn on/ off
+
+Links: 
+GitHub- https://github.com/lilusmith/Paint
+
+
+Lilu's Pain(t) Version 1.0.2 9/24/2023 
+Features:  
+- Width controls of lines and line shapes 
+- Drawing all shapes, pencil drawer, solid and dashed lines 
+- Keyboard shortcuts 
+- Label for colors 
+- Resize canvas  
+- Smart save  (exit menu pop up confirmation)  
+
+Known issues: 
+- Don't have color grabber  
+
+Expected next sprint: 
+- Add color grabber 
+- Make a new tab in the program
+
+Links: 
+GitHub- https://github.com/lilusmith/Paint
+
+
+Lilu's Pain(t) Version 1.0.1 9/15/2023 
+Features: 
+- Jpg, bmp, png support 
+- Draw a line and it saves to an image 
+- Resizing the canvas
+- Color chooser
+- Help and about menu
+
+Known issues: 
+- Can't control the width of a line drawn  
+- Need to organize the code
+- Start seperating into more files
+
+Expected next sprint:  
+- Drawing shapes
+- Keyboard shortcuts
+- Width controls on lines and shapes
+
+Links: 
+GitHub- https://github.com/lilusmith/Paint
+
+
+Lilu's Pain(t) Version 1.0.0 - 9/12/2023 
+Features: 
+- Menubar with open, save, save as, exit
+- Image uploading
+- Save as to the computer
+
+Known issues: 
+- Clean up UI 
+- "Save" does not work 
+
+Expected next sprint: 
+- Resizing canvas
+- More menu items
+- color chooser
+
+Links: 
+GitHub- https://github.com/lilusmith/Paint

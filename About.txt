@@ -1,0 +1,48 @@
+Menubar Functions
+
+All have keyboard shortcuts
+File menu items:
+- New Project adds another tab to upload files and draw on the canvas
+- Open files from the desktop and upload to the canvas
+- Save preserves work on the canvas 
+- Save as preserves work on the canvas, asks for a file name, and type of file to be saved
+- Exit closes out the entire program without any confirmation
+
+Edit menu items:
+- Undo/ redo used to reverse an action or restore a change that was undone
+- Clear the entire canvas with a confirmation
+- Copy/ paste used to duplicate a selection from the canvas and paste the selection somewhere else on the canvas
+- Cut used to delete a selection from the canvas
+
+Movement menu items:
+- Move image allows for the selection to be dragged on the canvas
+- Rotate/ rotate selection allows for the entire or selection of the canvas to turn 90 degrees clockwise
+- Flip horizontal/ horizontal selection allows for the entire or selection of the canvas to be flipped on the X-axis
+- Flip vertical/ vertical selection allows for the entire or selection of the canvas to be flipped on the Y-axis
+
+Help menu items:
+- Opens the about text file
+- Release notes provide the user on the lastest features and version updates
+
+Toolbar Functions
+
+- Autosave toggle button used to automaticlly save the work on the canvas. Can be turned on or off when wanted
+
+Drawing Tools Description:
+Can all change color fill and outline with color picker, width, solid or dashed line with slider when wanted
+- Pencil button used to draw free hand lines on the canvas/ images 
+- Line button used to draw stright lines on the canvas/ images
+- Rectangle used to draw rectangle shapes on the canvas/ images
+- Square used to draw square shapes on the canvas/ images
+- Ellipse used to draw ellipse shapes on the canvas/ images
+- Circle used to draw circle shapes on the canvas/ images
+- Triangle used to draw triangle shapes on the canvas/ images
+- Polygon used to draw pentagon shapes on the canvas/ images
+- My shape used to draw rounded rectangle shapes on the canvas/ images
+- Eyedropper used to selcet a color on the canvas/ images at a specific point and use it when drawing
+- Erase erases what was donee on the canvas/ images with a white pencil
+- Selection selects a part of the canvas to be manipulated with the edit and movement menu bar buttons
+
+Editing Tools Description:
+- Color pickers used for changing the outline or fill of the shapes/ lines drawn. Fill color picker is used for the text button to be put words on the workspace
+- Sliders used for changing the width and type of line drawn
